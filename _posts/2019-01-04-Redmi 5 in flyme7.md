@@ -12,5 +12,5 @@ tags:
 <center>所需材料</center>
 - flyme7的sgsi
 - PixelExperience底包
-- ProjectTreble的recovery
+- 支持ProjectTreble的recovery
 ---
