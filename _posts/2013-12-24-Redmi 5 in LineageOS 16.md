@@ -1,6 +1,6 @@
 ---
-title: 日本語テスト
-date: 2013-12-24 23:33:26
+title: Redmi 5 in LineageOS 16
+date: 2019-01-05
 tags:
 ---
 
