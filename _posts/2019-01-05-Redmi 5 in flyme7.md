@@ -14,6 +14,7 @@ tags:
 - [PixelExperience底包](https://qlb9-my.sharepoint.com/:f:/g/personal/mydisk10_qlb9_onmicrosoft_com/EokaC7GDa7VEhckdTzupoAYBmF7KSTjrfqPJga-56fyNeg?e=mgJWXl)
 - [支持ProjectTreble的recovery](https://qlb9-my.sharepoint.com/:f:/g/personal/mydisk10_qlb9_onmicrosoft_com/EpEZJhO3t6RCoeMMJCAaP10BevhZMEILUm_sntAA7NLiUA?e=d7Z14S)
 - [去除圆角补丁](https://qlb9-my.sharepoint.com/:u:/g/personal/mydisk10_qlb9_onmicrosoft_com/EZwSXqfMRcNPubz_bppKzx8BE3Gt2zUPCJyeWLb20zFIIA?e=d0v4qh)
+<center>左上角有下载符号</center>
 ---
 <center>文章正文</center>
 1.将flyme7的sgsi解压出来，会有几个压缩包和一个文件夹
